@@ -2,6 +2,7 @@ class School
   def initialize(roster)
     @roster = {}
   end
+<<<<<<< HEAD
   
   def roster
     @roster
@@ -25,3 +26,6 @@ class School
   end
 end
 end
+=======
+end
+>>>>>>> 7309e16d4e9e9adc3b3cf45ba85ee81de2a1703e
